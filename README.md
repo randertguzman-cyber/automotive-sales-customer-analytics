@@ -24,7 +24,7 @@ The dataset contains:
 ### 1. Executive Overview
 Provides an overview of revenue, unit sales, gross profit, margins, year-over-year performance, brand performance, regional sales, and vehicle profitability.
 
-![Executive Overview](screenshots/Executive_Overview.png)
+screenshots/Executive_Overview.png
 
 ### 2. Lead Conversion Analysis
 Analyzes the sales funnel from initial lead through contact, appointment, showroom visit, and completed vehicle sale.
