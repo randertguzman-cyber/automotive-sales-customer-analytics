@@ -1,4 +1,5 @@
 # Automotive Sales & Customer Analytics
+Note: This project uses a synthetic dataset created for portfolio and educational purposes. It does not contain real customer or dealership information
 
 ## Project Overview
 
