@@ -86,7 +86,7 @@ Lead-to-Sale % =
 DIVIDE(
     [Sold Leads],
     [Total Leads]
-)
+)```
 
 ## Key Insights
 
