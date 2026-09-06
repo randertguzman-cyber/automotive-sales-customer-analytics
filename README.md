@@ -67,27 +67,6 @@ Fact tables include:
 
 Relationships use one-to-many relationships from dimensions to fact tables.
 
-## Example DAX Measures
-
-```DAX
-Total Sales =
-SUM(FactSales[SalePrice])
-
-Total Gross Profit =
-SUM(FactSales[FrontGrossProfit])
-
-Gross Margin % =
-DIVIDE(
-    [Total Gross Profit],
-    [Total Sales]
-)
-
-Lead-to-Sale % =
-DIVIDE(
-    [Sold Leads],
-    [Total Leads]
-)```
-
 ## Key Insights
 
 - **$56.18M in total vehicle sales** was generated across 1,800 transactions, producing **$5.18M in gross profit** and an overall **9.21% gross margin**.
@@ -111,3 +90,24 @@ DIVIDE(
 The analysis highlights opportunities to improve automotive sales performance through lead-source optimization, salesperson benchmarking, customer segmentation, and vehicle mix analysis. Lead conversion varies by source and salesperson, while customer age, geography, financing preferences, and vehicle selection influence overall revenue and profitability.
 
 The dashboard provides decision-makers with an interactive view of these factors to support sales strategy, marketing allocation, inventory planning, and performance management.
+
+## Example DAX Measures
+
+```DAX
+Total Sales =
+SUM(FactSales[SalePrice])
+
+Total Gross Profit =
+SUM(FactSales[FrontGrossProfit])
+
+Gross Margin % =
+DIVIDE(
+    [Total Gross Profit],
+    [Total Sales]
+)
+
+Lead-to-Sale % =
+DIVIDE(
+    [Sold Leads],
+    [Total Leads]
+)
