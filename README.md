@@ -87,3 +87,27 @@ DIVIDE(
     [Sold Leads],
     [Total Leads]
 )
+
+## Key Insights
+
+- **$56.18M in total vehicle sales** was generated across 1,800 transactions, producing **$5.18M in gross profit** and an overall **9.21% gross margin**.
+
+- **Honda and Toyota were the highest-revenue brands**, each generating approximately **$16.2M in sales**, while the **Ford F-150 was the most profitable individual model**, generating approximately **$718K in gross profit**.
+
+- The sales funnel converted **4,200 leads into 566 vehicle sales**, resulting in an overall **13.5% lead-to-sale conversion rate**. Walk-in leads performed best at **14.8%**, compared with **12.3% for Social Media**, the lowest-performing source.
+
+- Salesperson performance varied depending on the KPI. **Taylor Nguyen generated the highest gross profit at approximately $732K**, while **Jordan Lee achieved the highest lead-to-sale conversion rate at 15.4%**, demonstrating the importance of evaluating both profitability and conversion efficiency.
+
+- Customers aged **35–44 represented the highest-revenue age segment**, generating approximately **$18.2M in vehicle sales**, followed by customers aged 25–34 at approximately **$15.0M**.
+
+- Financing was the dominant purchase method, accounting for approximately **62.3% of vehicle sales**, compared with **19.9% cash** and **17.7% lease transactions**.
+
+- Vehicle preferences varied geographically. **Toyota represented the largest share of sales in North Jersey (32.7%)**, while **Honda represented 35.6% of South NJ sales**, illustrating differences in brand mix across regional markets.
+
+- The **Ford F-150 had the highest average selling price at approximately $45.1K**, significantly above the overall average selling price of approximately **$31K**.
+
+## Business Takeaways
+
+The analysis highlights opportunities to improve automotive sales performance through lead-source optimization, salesperson benchmarking, customer segmentation, and vehicle mix analysis. Lead conversion varies by source and salesperson, while customer age, geography, financing preferences, and vehicle selection influence overall revenue and profitability.
+
+The dashboard provides decision-makers with an interactive view of these factors to support sales strategy, marketing allocation, inventory planning, and performance management.
