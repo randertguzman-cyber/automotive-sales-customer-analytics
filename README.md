@@ -23,22 +23,22 @@ The dataset contains:
 ### 1. Executive Overview
 Provides an overview of revenue, unit sales, gross profit, margins, year-over-year performance, brand performance, regional sales, and vehicle profitability.
 
-![Executive Overview](screenshots/executive-overview.png)
+![Executive Overview](screenshots/Executive_Overview.png)
 
 ### 2. Lead Conversion Analysis
 Analyzes the sales funnel from initial lead through contact, appointment, showroom visit, and completed vehicle sale.
 
-![Lead Conversion](screenshots/lead-conversion.png)
+![Lead Conversion Analysis](screenshots/Lead_Funnel.png)
 
 ### 3. Salesperson Performance
 Compares salesperson sales volume, profitability, conversion efficiency, gross profit per unit, and monthly conversion trends.
 
-![Salesperson Performance](screenshots/salesperson-performance.png)
+![Salesperson Performance](screenshots/Salesperson_Performance.png)
 
 ### 4. Customer & Vehicle Insights
 Analyzes customer age groups, financing behavior, vehicle preferences, regional patterns, and average selling price by model.
 
-![Customer & Vehicle Insights](screenshots/customer-vehicle-insights.png)
+![Customer & Vehicle Insights](screenshots/Customer_Vehicle_Insights.png)
 
 ## Key Metrics
 
